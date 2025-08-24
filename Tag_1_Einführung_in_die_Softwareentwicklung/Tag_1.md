@@ -63,5 +63,5 @@ Lege eine Datei `hello.js` an und schreibe:
 console.log("Hallo, Welt!");
 ```
 
-## 6 Hausaufgabe
+## 6️⃣ Hausaufgabe
 Lege im gleichen Ordner wie hello.js eine Datei mit dem Namen `aboutMe.js` an und schreibe mit `console.log()` ein paar Informationen über dich selbst hinein.
