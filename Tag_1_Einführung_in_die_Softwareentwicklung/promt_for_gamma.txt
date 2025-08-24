@@ -1,0 +1,79 @@
+Erstelle eine Präsentation für einen Einsteigerkurs in Programmierung.
+Thema: Tag 1 – Einführung in die Softwareentwicklung.
+
+🎯 Zielgruppe:
+- Anfänger ohne Programmiererfahrung
+- Jugendliche und junge Erwachsene
+- Sprache: Deutsch
+- Ton: motivierend, einfach, praxisnah
+
+📑 Struktur der Folien:
+
+1. Titel
+   - Titel: "Tag 1 – Einführung in die Softwareentwicklung"
+   - Untertitel: "Vom Nutzer zum Ersteller"
+   - Visual: modernes Tech-Design
+
+2. Ziele des Tages
+   - Verstehen, was Softwareentwicklung ist
+   - Denkweise von Entwickler:innen kennenlernen
+   - Werkzeuge installieren und nutzen (VS Code, Node.js, Terminal)
+   - Erstes JavaScript-Programm schreiben
+
+3. Icebreaker
+   - Frage: „Welche Apps oder Webseiten nutzt du jeden Tag?“
+   - Frage: „Was glaubst du, macht ein Softwareentwickler eigentlich?“
+   - Hinweis: Antworten → Überleitung zu "vom Nutzer zum Ersteller"
+
+4. Was ist Softwareentwicklung?
+   - Definition (Code schreiben, testen, pflegen, Probleme lösen)
+   - Beispiele: WhatsApp, YouTube, Spotify, Amazon
+   - Alltagssoftware: Autos, Geldautomaten
+
+5. Rollen in der Softwareentwicklung
+   - Frontend-Entwickler: UI, Buttons, Formulare
+   - Backend-Entwickler: Logik, APIs, Daten
+   - Full-Stack-Entwickler: beides
+   - Datenbank-Entwickler: Speicherung
+
+6. Die Denkweise eines Entwicklers
+   - Neugierig
+   - Hartnäckig
+   - Teamorientiert
+   - Lebenslanges Lernen
+   - Beispiel: Food-Delivery-App Schritt für Schritt
+
+7. Werkzeuge des Handwerks
+   - VS Code (Code schreiben)
+   - Node.js (JavaScript ausführen)
+   - Terminal (Befehle)
+   - Browser Dev Tools (später)
+
+8. Erstes Programm
+   - Datei: hello.js
+   - Code: console.log("Hallo, Welt!");
+   - Terminal: node hello.js
+   - 🎉 Glückwunsch, erstes Programm!
+
+9. Praktische Übung
+   - Datei: aboutMe.js
+   - Schreibe 3–5 Sätze über dich
+   - Beispiel mit console.log
+   - Terminal-Ausführung
+
+10. Zusammenfassung
+   - Entwickler:innen = Problemlöser:innen
+   - Tools: VS Code, Node.js, Terminal
+   - Erstes Programm erfolgreich geschrieben
+
+11. Hausaufgabe
+   - Ergänze Variablen mit `let` oder `const`
+   - Nutze Template Literals für Ausgabe
+   - Beispiel: `Mein Name ist ${name}, und ich bin ${alter} Jahre alt.`
+
+👩‍🏫 Stil:
+- Jede Folie kurz & übersichtlich
+- Wichtige Begriffe fett hervorheben
+- Wo möglich mit Symbolen / Icons
+- Wenig Text, mehr Stichpunkte
+- Moderner Tech-Look (blau / dunkel / minimalistisch)
